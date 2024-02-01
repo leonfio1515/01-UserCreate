@@ -1,0 +1,8 @@
+La siguiente aplicacion ejecuta el proceso de registro y logueo de un usuario.
+
+Para ello debera ejecutar la aplicacion mediante python manage.py runserver
+
+una vez ejecutado debera acceder a http://127.0.0.1:8000
+
+Alli debera registrarse, proceso que generara un token de confirmacion el cual se enviara a la direccion de corrre electronica registrada
+
